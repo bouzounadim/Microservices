@@ -11,7 +11,7 @@ public class UserController {
 	
 	@GetMapping("/hello")
 	public String index() {
-		return "hello from users";
+		return "hello from usersds";
 	}
 
 }
